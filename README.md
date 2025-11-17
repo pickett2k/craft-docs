@@ -10,8 +10,8 @@ This repository contains the legal documents for the ChoreCraft mobile applicati
 ## GitHub Pages
 
 These documents are hosted on GitHub Pages and are accessible at:
-- Privacy Policy: `https://YOUR_USERNAME.github.io/chorecraft-docs/privacy-policy.html`
-- Terms of Use: `https://YOUR_USERNAME.github.io/chorecraft-docs/terms-of-use.html`
+- Privacy Policy: `https://pickett2k.github.io/chorecraft-docs/privacy-policy.html`
+- Terms of Use: `https://pickett2k.github.io/chorecraft-docs/terms-of-use.html`
 
 ## Setup Instructions
 
